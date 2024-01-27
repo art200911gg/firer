@@ -1,0 +1,56 @@
+body{
+	margin: 20px;
+}
+
+.wrapper{
+	display: grid;
+	grid-template-columns: 100px 100px 100px 100px 100px;
+	justify-content: center;
+	grid-gap: 2px;
+background-color: #fff;
+color: #444;
+	margin-top: 100px;
+	
+
+}
+.box{
+	background-color: #444;
+color: #fff;
+border-radius: 5px;
+padding: 20px;
+font-size: 150%;
+background-image:url(vl.jfif);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+
+.one: hover{
+	background: brown;
+}
+.two: hover{
+	background: red;
+}
+
+.three: hover{
+	background: white;
+}
+.four: hover{
+	background: white;
+}
+.fived
+.six
+.seven
+.eight
+.nine
+.ten
+.eleven
+.twelve
+.thirteen
+.fourteen
+.fifteen
+.sixteen
+.seventeen
+.eighteen
+.nineteen
+.twenty
